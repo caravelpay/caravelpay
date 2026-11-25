@@ -3,6 +3,7 @@
 A hosted checkout for online stores. Your buyers pay by card, Apple Pay or Google Pay; you receive USDC on Polygon in your own wallet, minus the 2% Caravel fee. No account, no dashboard and no monthly fee: paste a wallet and start.
 
 - Website: <https://caravelpay.app>
+- Trailer, 28 seconds: <https://youtu.be/X8XWVdTBXjc>
 - Docs and API reference: <https://caravelpay.app/docs/>
 - Plugins, with downloads and checksums: <https://caravelpay.app/plugins/>
 - Pricing: <https://caravelpay.app/pricing/>
